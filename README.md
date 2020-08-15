@@ -1,6 +1,7 @@
 # game_release_dates
 CLI gem portfolio project - game release dates
 Contributers: Dutchmile
+MIT license: CLI gem portfolio project/game_release_dates/LICENSE.txt
 
 This CLI program is for the purpose of fulfilling the duties as per the assignment established in learn.co through Flatiron's Software Engineering program
 Originally, the goal of this gem was to provide users with a way to simply discover the release dates for upcoming videogame titles over multiple platforms. During development, the goal shifted to provide a greater description of each videogame title. Thus, this gem serves to provide users information, in general, for announce, upcoming videogames. The information offered for each videogame includes the title, the platform the game is released for, and a brief summary describing what to expect for each game
